@@ -1,6 +1,6 @@
 # StarGazers
 
-[Home](index.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
+[Cast](Cast.md) | [Collectibles](Collectibles.md)
 
 
 [LinkedIn]({{site.linkedin}})
